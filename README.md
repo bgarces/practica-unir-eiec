@@ -15,5 +15,6 @@ python3 main.py <filename> <dup>
 Integrantes:
  -
  -
+ -
  - Bryan Garcés Murillo
 
